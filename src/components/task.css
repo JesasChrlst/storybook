@@ -1,0 +1,16 @@
+.task {
+  color: black;
+  border-radius: 30px;
+  padding: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  column-gap: 20px;
+}
+
+.date {
+  font-size: x-small;
+}
+
+.completed h3 {
+  text-decoration: line-through;
+}
